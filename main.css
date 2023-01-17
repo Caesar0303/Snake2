@@ -1,0 +1,13 @@
+#world {
+    background-color: yellow;
+}
+
+#snake {
+    position: absolute;
+    background-color: red;
+}
+
+#food {
+    position: absolute;
+    background-color: green;
+}
